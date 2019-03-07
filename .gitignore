@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# bluej_unit_tests
+git remote add origin https://github.com/briliyehtetlin/bluej_test1.git
+git push -u origin master
