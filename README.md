@@ -1,4 +1,4 @@
-# bluej_test1
+# blueJTest
 echo "# blueJTest" >>README.md
 git init
 git add README.md
